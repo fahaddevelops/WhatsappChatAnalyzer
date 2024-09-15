@@ -6,7 +6,7 @@ from urlextract import URLExtract
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
-
+st.image("F.D Analyzer", width=150) 
 # Add a welcome message
 st.markdown("<h1 style='text-align: center; color: green;'>Welcome to WhatsApp Chat Analyzer</h1>", unsafe_allow_html=True)
 
