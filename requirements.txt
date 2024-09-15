@@ -13,6 +13,9 @@ urlextract==1.8.0
 wordcloud==1.9.2
 altair==5.0.1
 
+# For Natural Language Processing
+nltk==3.8.1
+
 # For interactive widgets and user interface
 ipykernel==6.25.0
 ipywidgets==8.0.7
