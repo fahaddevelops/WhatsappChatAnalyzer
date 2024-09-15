@@ -16,9 +16,13 @@ altair==5.0.1
 # For Natural Language Processing
 nltk==3.8.1
 
+# For emoji analysis
+emoji==2.8.0
+
 # For interactive widgets and user interface
 ipykernel==6.25.0
 ipywidgets==8.0.7
 
 # Optional utilities
 scikit-learn==1.3.0
+
